@@ -71,8 +71,8 @@ button {
 }
 #todo-list li {
   margin: 0;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 24%;
+  margin-right: 24%;
   box-sizing: border-box;
   background: var(--secondary-color);
   border-radius: 10px;
@@ -114,4 +114,5 @@ ul {
     margin-top: 2%;
   }
 }
+
 
