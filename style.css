@@ -30,7 +30,7 @@ h1 {
   font-weight: 800;
   font-family: "Lato", sans-serif;
   color: var(--text-color);
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 
 li {
@@ -39,7 +39,7 @@ li {
 
 #todo-input {
   box-sizing: border-box;
-  width: 46%;
+  width: 44%;
   padding: 8px 22px;
   border-radius: 1000px;
   border: 2px solid var(--secondary-color);
@@ -71,8 +71,8 @@ button {
 }
 #todo-list li {
   margin: 0;
-  margin-left: 23%;
-  margin-right: 23%;
+  margin-left: 20%;
+  margin-right: 20%;
   box-sizing: border-box;
   background: var(--secondary-color);
   border-radius: 10px;
@@ -114,3 +114,4 @@ ul {
     margin-top: 2%;
   }
 }
+
